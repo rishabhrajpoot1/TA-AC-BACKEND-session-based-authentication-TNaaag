@@ -2,6 +2,18 @@ writeCode
 
 Add flash messages for:-
 
+
+
+
+
+
+
+
+
+
+
+
+
 1. During registration
 
 - if email is not unique
