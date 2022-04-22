@@ -3,6 +3,22 @@ writeCode
 Create a login and registration system where a user should be able to register using a registration form with following data:
 
 - name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - email(unique)
 - password(minimum 5 characters)
 
