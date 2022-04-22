@@ -4,6 +4,24 @@ Create a blog app with article resources. Each article can have one or multiple 
 
 Article resource should contain fields:
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - title
 - description
 - likes
