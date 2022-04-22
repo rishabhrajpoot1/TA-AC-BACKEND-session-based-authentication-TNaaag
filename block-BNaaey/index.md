@@ -5,6 +5,18 @@ Implement login for the previously registered user which have been generated in 
 - handle a GET request on `/users/login` to render the login form which should accept
 
   - email
+
+
+
+
+
+
+
+
+
+
+
+  
   - password
 
 - handle a POST request on `users/login` where we verify the login credentials passed by the user
